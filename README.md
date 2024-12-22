@@ -34,4 +34,4 @@ Implements sophisticated booking categorization:
 - Families with toddlers (0-2 years)
 - Families with 1-3+ children
   
-## Project Structure 📁
+**Note: This repository is currently under development and more content will be added soon.** ⚠️
