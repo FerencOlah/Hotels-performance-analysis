@@ -33,3 +33,5 @@ Implements sophisticated booking categorization:
 - Groups (3+ adults)
 - Families with toddlers (0-2 years)
 - Families with 1-3+ children
+  
+## Project Structure 📁
